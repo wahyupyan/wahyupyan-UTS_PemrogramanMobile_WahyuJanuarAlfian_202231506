@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UTS_WahyuJanuarAlfian_202231506</string>
+
+    <string-array name="data_name">
+        <item>2 BERSAMA PLN DIV BKI, KEMBANGKAN LAB WTE</item>
+        <item>4 Green Campus ITPLN Raih SDG’s Gold dan 100% Gunakan Energi Bersih</item>
+        <item>6 SEMINAR TRANSISI ENERGI FOR YOUNG ENGINEER</item>
+        <item>8 MELAKSANKAN KURIKULUM 4-4-2</item>
+        <item>10 IT PLN KUNJUNGAN INDUSTRI KE MUARA KARANG</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item>Jakarta, ITPLN News (22/12/2023) – Wakil Rektor IV Institut Teknologi PLN (ITPLN) bersama Executive Vice President (EVP) PT PLN (Persero) Divisi Pengembangan Bisnis Korporat dan Inovasi (PLN Div BKI) melakukan kunjungan ke dua laboratorium ITPLN, yakni laboratorium waste to energy (WTE) dan laboratorium P3KL (Pusat Penelitian dan Pengkajian Kendaraan Listrik)</item>
+        <item>Institut Teknologi PLN (ITPLN) kembali meraih pencapaian membanggakan dengan menyabet posisi Juara 2 “Gold” untuk kontribusi Sustainable Development Goals (SDGs) Perguruan Tinggi Swasta (PTS) di Indonesia. Tidak hanya itu ITPLN juga menjadi institusi pendidikan tinggi pertama di Jakarta yang sepenuhnya beroperasi dengan energi hijau melalui Renewable Energy Certificate (REC). ITPLN Raih SDG’s Gold adalah upaya yang selama ini dilakukan dan membuahkan hasil.</item>
+        <item>Jakarta, ITPLN News (21/12/2023) – Institut Teknologi PLN (ITPLN) bersama Masyarakat Ketenagalistrikan Indonesia (MKI) menyelenggarakan Seminar Transisi for Young Engineer. Seminar tersebut diselenggarakan di ruang Smart Class PLN Indonesia Power, Kampus ITPLN Duri Kosambi, yang dihadiri oleh Rektor ITPLN Prof. Dr. Ir. Iwa Garniwa, M.K., M.T., Wakil Rektor (Warek) II Kuswowo S.E., M.M., M.Ak.</item>
+        <item>Jakarta, ITPLN News (20/12/2023) – Institut Teknologi PLN (ITPLN) melalui Training Center melaksanakan pelatihan instalasi listrik kepada mitra kerja yakni PT Daikin Airconditioning Indonesia (Daikin). Pelatihan instalasi listrik ini dilakukan selama dua hari (20-21) Desember 2023 dan dilute sebanyak 20 supervisor PT Daikin yang terselenggara di Kampus ITPLN Duri Kosambi Jakarta, Rabu, (20/12/2023).</item>
+        <item>Jakarta, ITPLN News (19/12/2023) – Guna meningkatkan wawasan di dunia kerja nantinya, Institut Teknologi PLN (ITPLN) melaksanakan kegiatan kunjungan industri ke PT PLN (Persero) Pusat Pemeliharaan Ketenagalistrikan (PUSHARLIS) UP2W IV Dayeuhkolot, Bandung, Jawa Barat. Kunjungan industri yang dilakukan oleh ITPLN tersebut merupakan bagian dari kurikulum pembelajaran 442, dan diterima hangat oleh Manager PLN PUSHARLIS</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/berita2</item>
+        <item>@drawable/berita4</item>
+        <item>@drawable/berita6</item>
+        <item>@drawable/berita8</item>
+        <item>@drawable/berita10</item>
+    </string-array>
+</resources>
